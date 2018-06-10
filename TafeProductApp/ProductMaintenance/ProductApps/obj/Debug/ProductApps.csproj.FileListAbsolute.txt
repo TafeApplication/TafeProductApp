@@ -1,0 +1,40 @@
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\bin\Debug\ProductApps.exe.config
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\bin\Debug\ProductApps.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\bin\Debug\ProductApps.pdb
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\obj\Debug\ProductApps.csprojResolveAssemblyReference.cache
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\obj\Debug\MainWindow.baml
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\obj\Debug\MainWindow.g.cs
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\obj\Debug\App.g.cs
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\obj\Debug\ProductApps.g.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\obj\Debug\ProductApps.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\ProductApps\obj\Debug\ProductApps.pdb
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+D:\MyTafe\2018_S1\Subject Validation\5TSD\Student\Student Files\Test 1\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
